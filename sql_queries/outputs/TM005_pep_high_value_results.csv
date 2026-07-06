@@ -1,0 +1,2 @@
+Transaction_ID,Customer_ID,Amount_GBP,Date,Counterparty_Name,Counterparty_Country,Direction,Customer_Type,KYC_Tier
+T059,CUST021,120000,18/07/2024,Offshore Holdings Ltd,Cayman Islands,Credit,PEP,EDD

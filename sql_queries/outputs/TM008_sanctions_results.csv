@@ -1,0 +1,4 @@
+Transaction_ID,Customer_ID,Amount_GBP,Counterparty_Country,Counterparty_Bank,Direction,action_required
+T056,CUST012,28000,Iran,Bank Mellat,Debit,BLOCK AND FREEZE
+T063,CUST028,15000,Russia,Sberbank,Debit,BLOCK AND FREEZE
+T064,CUST028,8500,Belarus,Belarusbank,Debit,BLOCK AND FREEZE

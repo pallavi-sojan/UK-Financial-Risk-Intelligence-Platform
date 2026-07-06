@@ -1,0 +1,6 @@
+Customer_ID,Transaction_ID,Amount_GBP,Direction,Counterparty_Name,Date
+CUST019,T061,29500,Debit,CUST022,09/08/2024
+CUST019,T093,50000,Credit,Property Sales,15/03/2024
+CUST019,T113,50000,Credit,Tenants,15/05/2024
+CUST019,T144,50000,Credit,Tenants,20/08/2024
+CUST022,T060,30000,Debit,CUST019,02/08/2024

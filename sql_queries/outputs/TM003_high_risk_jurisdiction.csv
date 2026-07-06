@@ -1,0 +1,4 @@
+Transaction_ID,Customer_ID,Amount_GBP,Counterparty_Country,Counterparty_Bank,Direction
+T056,CUST012,28000,Iran,Bank Mellat,Debit
+T063,CUST028,15000,Russia,Sberbank,Debit
+T064,CUST028,8500,Belarus,Belarusbank,Debit

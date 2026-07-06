@@ -1,0 +1,5 @@
+Transaction_ID,Customer_ID,Amount_GBP,Date,Transaction_Type,Direction,Account_Status
+T057,CUST025,75000,10/06/2024,Wire Transfer IN,Credit,Dormant
+T058,CUST025,25000,11/06/2024,Wire Transfer OUT,Debit,Dormant
+T063,CUST028,15000,21/10/2024,SWIFT Transfer,Debit,Dormant
+T064,CUST028,8500,21/10/2024,SWIFT Transfer,Debit,Dormant
