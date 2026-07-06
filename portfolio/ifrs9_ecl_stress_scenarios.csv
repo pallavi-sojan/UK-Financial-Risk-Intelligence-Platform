@@ -1,0 +1,5 @@
+Scenario,PD Multiplier,Total ECL (£m),vs Base (£m),vs Base %
+BASE,1.0x,4453,0,+0.0%
+MILD,1.15x,5121,668,+15.0%
+MODERATE,1.35x,6012,1559,+35.0%
+SEVERE STRESS,1.65x,7348,2895,+65.0%

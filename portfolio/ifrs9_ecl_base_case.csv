@@ -1,0 +1,6 @@
+Sector,PD %,LGD %,EAD (£m),Stage,ECL (£m),ECL Basis
+Mortgage Lending,0.3%,45%,86957,Stage 1,117,12-month ECL
+Consumer Credit,1.8%,65%,21739,Stage 2,1093,Lifetime ECL
+Corporate Lending,2.1%,55%,36232,Stage 2,1799,Lifetime ECL
+Commercial Real Estate,3.2%,60%,12000,Stage 2,990,Lifetime ECL
+Small Business,2.8%,58%,6500,Stage 2,454,Lifetime ECL

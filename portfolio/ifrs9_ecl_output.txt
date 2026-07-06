@@ -1,0 +1,73 @@
+============================================================
+  CALEDONIA BANK PLC — IFRS 9 ECL MODEL
+  Author: Pallavi Sojan | MSc Finance & Risk Management
+============================================================
+
+Sector data loaded: 5 sectors
+Total EAD: £163,428m
+
+============================================================
+  BASE CASE ECL CALCULATION
+============================================================
+Sector                    Stage          PD    LGD        EAD        ECL
+------------------------------------------------------------
+Mortgage Lending          Stage 1      0.3%    45%     86,957        117
+Consumer Credit           Stage 2      1.8%    65%     21,739      1,093
+Corporate Lending         Stage 2      2.1%    55%     36,232      1,799
+Commercial Real Estate    Stage 2      3.2%    60%     12,000        990
+Small Business            Stage 2      2.8%    58%      6,500        454
+------------------------------------------------------------
+TOTAL PORTFOLIO                                       163,428      4,453
+
+Total Portfolio ECL: £4,453m
+ECL as % of Total EAD: 2.72%
+
+============================================================
+  STRESS TEST — BoE ANNUAL CYCLICAL SCENARIO
+============================================================
+Scenario               Multiplier    Total ECL   vs Base £m  vs Base %
+------------------------------------------------------------
+BASE                         1.00x        4,453           +0      +0.0%
+MILD                         1.15x        5,121         +668     +15.0%
+MODERATE                     1.35x        6,012       +1,559     +35.0%
+SEVERE STRESS                1.65x        7,348       +2,895     +65.0%
+------------------------------------------------------------
+
+Severe stress ECL increase vs base: £2,895m (+65.0%)
+
+============================================================
+  IFRS 9 STAGING SUMMARY
+============================================================
+Stage 1 (12-month ECL):  £117m  — 2.6% of total ECL
+Stage 2 (Lifetime ECL):  £4,336m  — 97.4% of total ECL
+Stage 3 (Credit-impaired): £0m  — 0.0% of total ECL
+
+============================================================
+  EXPORTING RESULTS
+============================================================
+✓ Base case ECL exported: portfolio/ifrs9_ecl_base_case.csv
+✓ Stress scenarios exported: portfolio/ifrs9_ecl_stress_scenarios.csv
+
+Generating charts...
+✓ Chart exported: portfolio/ifrs9_ecl_chart.png
+
+============================================================
+  MODEL COMPLETE — SUMMARY
+============================================================
+Total Portfolio EAD:      £163,428m
+Base Case ECL:            £4,453m
+ECL / EAD ratio:          2.72%
+Stage 1 sectors:          1
+Stage 2 sectors:          4
+Severe stress ECL:        £7,348m
+Severe stress increase:   +65.0%
+
+Outputs saved to: portfolio/
+  - ifrs9_ecl_base_case.csv
+  - ifrs9_ecl_stress_scenarios.csv
+  - ifrs9_ecl_chart.png
+
+============================================================
+  IFRS 9 ECL MODEL COMPLETE
+  Caledonia Bank plc | Pallavi Sojan | 2025
+============================================================
