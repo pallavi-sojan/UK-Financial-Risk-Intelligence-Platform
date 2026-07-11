@@ -13,7 +13,7 @@
 |-----------|------|------|
 | FP&A Performance Dashboard | Tableau Public | *[Add your Tableau URL here]* |
 | Credit Risk Dashboard | Tableau Public | *[Add your Tableau URL here]* |
-| AML Compliance Dashboard | Tableau Public | [*[Add your Tableau URL here]*](https://public.tableau.com/app/profile/pallavi.sojan/viz/AMLInvestigationLog/Dashboard1?publish=yes) |
+| AML Compliance Dashboard | Tableau Public | [View Live Dashboard](https://public.tableau.com/app/profile/pallavi.sojan/viz/AMLInvestigationLog/Dashboard1) |
 | Regulatory Reporting Dashboard | Power BI | *[Add your Power BI URL here]* |
 | FP&A Report | Power BI | *[Add your Power BI URL here]* |
 
