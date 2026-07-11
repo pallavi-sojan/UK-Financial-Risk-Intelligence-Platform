@@ -11,11 +11,11 @@
 
 | Dashboard | Tool | Link |
 |-----------|------|------|
-| FP&A Performance Dashboard | Tableau Public | *[Add your Tableau URL here]* |
-| Credit Risk Dashboard | Tableau Public | *[Add your Tableau URL here]* |
+| FP&A Performance Dashboard | Tableau Public | *[ 🔄 Coming soon ]* |
+| Credit Risk Dashboard | Tableau Public | *[ 🔄 Coming soon ]* |
 | AML Compliance Dashboard | Tableau Public | [View Live Dashboard](https://public.tableau.com/app/profile/pallavi.sojan/viz/AMLInvestigationLog/Dashboard1) |
-| Regulatory Reporting Dashboard | Power BI | *[Add your Power BI URL here]* |
-| FP&A Report | Power BI | *[Add your Power BI URL here]* |
+| Regulatory Reporting Dashboard | Power BI | *[ 🔄 Coming soon ]* |
+| FP&A Report | Power BI | *[ 🔄 Coming soon ]* |
 
 ---
 
