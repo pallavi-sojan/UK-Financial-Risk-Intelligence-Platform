@@ -1,5 +1,5 @@
 # 🏦 UK Financial Risk Intelligence Platform
-### Caledonia Bank plc — Multi-Module Financial Analytics Portfolio
+### Caledonia Bank plc (Fictional) — Multi-Module Financial Analytics Portfolio
 
 **Built by:** Pallavi Sojan | MSc Finance & Risk Management | Edinburgh, UK  
 **Data Source:** Bank of England Statistical Database (Public)  
@@ -32,7 +32,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 
 ## 📦 Module Summary
 
-### ✅ Module 1 — BoE Data Pipeline
+### ✅ Module 1 — BoE Data Pipeline (In progress)
 **Tools:** Python, SQLite, VS Code  
 **Files:** `scripts/boe_pipeline.py` | `sql_queries/01_data_validation.sql`
 
@@ -43,7 +43,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 
 ---
 
-### ✅ Module 2 — FP&A Model
+### ✅ Module 2 — FP&A Model (In Progress)
 **Tools:** Excel, Tableau, Power BI  
 **Files:** `excel_models/FPA_PL_Model.xlsx`
 
@@ -84,7 +84,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 
 ---
 
-### ✅ Module 5 — Regulatory Reporting (COREP & FinRep)
+### ✅ Module 5 — Regulatory Reporting (COREP & FinRep) (In Progress)
 **Tools:** Excel, Power BI  
 **Files:** `excel_models/Regulatory_Reporting_Model.xlsx`
 
@@ -205,14 +205,14 @@ UK-Financial-Risk-Intelligence-Platform/
 **Pallavi Sojan**  
 MSc Finance & Risk Management — University of Stirling  
 ICA Advanced Certificate in AML (July 2026 cohort)  
-Edinburgh, UK | Right to work until 2027
+Edinburgh, UK | 
 
-**Target roles:** AML/KYC Analyst | FP&A Analyst | Credit Risk Analyst | Regulatory Reporting Analyst | Internal Auditor
+**Target roles:** AML/KYC Analyst | FP&A Analyst | Credit Risk Analyst | Regulatory Reporting Analyst 
 
 📧 *pallavisojan92@gmail.com*  
-💼 *linkedin.com/in/pallavi-sojan/*  
+💼 *linkedin.com/in/pallavi-sojan*  
 
 ---
 
-*Data source: Bank of England Statistical Database — all data publicly available at bankofengland.co.uk/boeapps/database*  
+*Data source: Bank of England Statistical Database - all data publicly available at bankofengland.co.uk/boeapps/database*  
 *Caledonia Bank plc is a fictional entity created for portfolio purposes only*
