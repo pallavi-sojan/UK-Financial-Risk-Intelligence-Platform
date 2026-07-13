@@ -210,7 +210,7 @@ Edinburgh, UK |
 **Target roles:** AML/KYC Analyst | FP&A Analyst | Credit Risk Analyst | Regulatory Reporting Analyst 
 
 📧 *pallavisojan92@gmail.com*  
-💼 *linkedin.com/in/pallavi-sojan*  
+💼 *https://www.linkedin.com/in/pallavi-sojan*  
 
 ---
 
