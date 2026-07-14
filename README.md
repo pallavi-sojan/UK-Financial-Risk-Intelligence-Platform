@@ -1,5 +1,5 @@
 # 🏦 UK Financial Risk Intelligence Platform
-### Caledonia Bank plc (Fictional) — Multi-Module Financial Analytics Portfolio
+### Caledonia Bank plc (Fictional) - Multi-Module Financial Analytics Portfolio
 
 **Built by:** Pallavi Sojan | MSc Finance & Risk Management | Edinburgh, UK  
 **Data Source:** Bank of England Statistical Database (Public)  
@@ -21,7 +21,7 @@
 
 ## 🎯 Project Overview
 
-This platform simulates the analytical infrastructure of a UK retail bank using real Bank of England public data. It covers six interconnected modules spanning FP&A, credit risk, AML compliance, regulatory reporting, and internal audit — the core functions of a UK financial services firm.
+This platform simulates the analytical infrastructure of a UK retail bank using real Bank of England public data. It covers six interconnected modules spanning FP&A, credit risk, AML compliance, regulatory reporting, and internal audit - the core functions of a UK financial services firm.
 
 **Fictional entity:** Caledonia Bank plc  
 **Data:** Bank of England Statistical Database (IADB)  
@@ -32,7 +32,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 
 ## 📦 Module Summary
 
-### ✅ Module 1 — BoE Data Pipeline (In progress)
+### ✅ Module 1 - BoE Data Pipeline (In progress)
 **Tools:** Python, SQLite, VS Code  
 **Files:** `scripts/boe_pipeline.py` | `sql_queries/01_data_validation.sql`
 
@@ -43,7 +43,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 
 ---
 
-### ✅ Module 2 — FP&A Model (In Progress)
+### ✅ Module 2 - FP&A Model (In Progress)
 **Tools:** Excel, Tableau, Power BI  
 **Files:** `excel_models/FPA_PL_Model.xlsx`
 
@@ -51,7 +51,7 @@ This platform simulates the analytical infrastructure of a UK retail bank using 
 - 7 sheets: PL_MODEL, BALANCE_SHEET, CASH_FLOW, BUDGET_VS_ACTUAL, SCENARIO_ANALYSIS, MODEL_VALIDATION, CHARTS
 - Budget vs actual variance analysis with auto-flagging (ADVERSE/FAVOURABLE/OK)
 - 4-scenario stress test: BASE, BULL, BEAR, SEVERE STRESS
-- 15 model validation checks — 100% pass rate
+- 15 model validation checks - 100% pass rate
 - Key ratios: NIM 3.2%, Cost-to-Income 35%, ROE 19%
 - Management Commentary Word document (CFO-quality, 5 pages)
 
@@ -185,7 +185,7 @@ UK-Financial-Risk-Intelligence-Platform/
 
 | Framework | Module | What it covers |
 |-----------|--------|---------------|
-| MLR 2017 | AML | Money Laundering Regulations — CDD, EDD, SAR obligations |
+| MLR 2017 | AML | Money Laundering Regulations - CDD, EDD, SAR obligations |
 | JMLSG 2026 | AML | Industry AML guidance — KYC/CDD best practice |
 | POCA 2002 | AML | SAR filing (S.330), tipping off offence (S.333A) |
 | FCA FCG | AML | FCA Financial Crime Guide — supervisory expectations |
